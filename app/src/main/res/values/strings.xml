@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="city_name">City Name</string>
+    <string name="find_button">Find</string>
+    <string name="sunrise_icon">sunrise_icon</string>
+    <string name="sunrise_text">Sunrise</string>
+    <string name="sunset_text">Sunset</string>
+    <string name="sunset_icon">sunset_icon</string>
+    <string name="wind_icon">wind_icon</string>
+    <string name="wind_speed_text">Wind Speed</string>
+</resources>
